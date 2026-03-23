@@ -1,9 +1,14 @@
 ## Hello, I'm Daniel
 MSc Data Science
 
-BSc Mathematics
+BSc Mathematics & Philosophy
 
 Currently employed at Heidelberg Materials
+
+## Competencies
+Languages: Python, SQL and R
+
+## Selected Projects
 
 
 
