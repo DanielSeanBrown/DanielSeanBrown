@@ -9,6 +9,7 @@ I am currently a part-time Data Science MSc student whilst employed within accou
 This project focused on using supervised/unsupervised learning and bootstrapping in R to predict and understand how biological states change depending on some selected gene expression levels.
 
 [Soil Crop Classification](https://github.com/DanielSeanBrown/crop-classification)
+
 In this project I built classification models to help identify what the most ideal crop would be to plant depending on soil characteristics. Here I made use of various classical machine learning models for prediction as well as some clustering techniques to observe how various crop types group. I tested models for noise and null value injection to try and simulate how measuring soil characteristics may be challenging in real world conditions.
 
 [Air Quality Database](https://github.com/DanielSeanBrown/bristol-air-pollution)
@@ -23,7 +24,7 @@ I am working on this project as part of a group where we are looking at creating
 
 A project I have been really enjoying working on with real, positive impact behind its aims: bridging the gap between published scores from the ONS, who produce a report on deprivation scores roughly once every seven years.
 
-Masters Thesis: Mapping Symbolic Music
+**Masters Thesis: Mapping Symbolic Music**
 
 I have recently started work on my master’s thesis, where I will be using large MIDI datasets to map songs by similarity. This will then allow me to analyse the space they form and produce a tool for research, recommender systems or music history. My proposal for this project has only recently been accepted so I am still at the early stages of work, but I am excited to make use of various signal processing and time series analysis techniques.
 
