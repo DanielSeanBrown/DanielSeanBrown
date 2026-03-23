@@ -1,6 +1,7 @@
 ## Hello, I'm Daniel
-MSc Data Science, BSc Mathematics
+MSc Data Science
 
+BSc Mathematics
 
 Currently employed at Heidelberg Materials
 
