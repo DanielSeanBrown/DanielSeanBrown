@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hello, I'm Daniel
+MSc Data Science, BSc Mathematics
+
+
+Currently employed at Heidelberg Materials
+
+
 
 <!--
 **DanielSeanBrown/DanielSeanBrown** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
