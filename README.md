@@ -11,7 +11,7 @@ A project I have been really enjoying working on with real, positive impact behi
 
 **Masters Thesis: Mapping Symbolic Music**
 
-I have recently started work on my master’s thesis, where I will be using large MIDI datasets to map songs by similarity. This will then allow me to analyse the space they form and produce a tool for research, recommender systems or music history. My proposal for this project has only recently been accepted so I am still at the early stages of work, but I am excited to make use of various signal processing and time series analysis techniques.
+I have recently started work on my master’s thesis, where I will be using large MIDI datasets to map songs by similarity. This will then allow me to analyse the space they form and produce a tool for research, recommender systems or music history. My proposal for this project has only recently been accepted so I am still at the early stages of work, but I am excited to make use of various signal processing and time series analysis techniques as well as build a system for ingesting and storing future audio data.
 
 ## Selected Projects
 
