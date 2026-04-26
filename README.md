@@ -3,7 +3,7 @@ I am currently a part-time Data Science MSc student whilst employed within accou
 
 ## Currently Working On
 
-[Nowcasting the Indices of Multiple Deprivation in Bristol](https://github.com/bristol-fused-indicators)
+[Nowcasting the Indices of Multiple Deprivation in Bristol](https://github.com/bristol-fused-indicators/imd_dataset_pipeline)
 
 I am working on this project as part of a group where we are looking at creating a model which can nowcast the IMD scores on the LSOAs of Bristol. We have just finished building and deploying our data pipeline and am now producing spatial econometric models for regression. 
 
