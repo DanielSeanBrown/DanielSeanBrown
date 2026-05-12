@@ -29,5 +29,5 @@ This project was focused on designing, building, populating and querying a relat
 
 
 ## About Me
-Outside of work, I am a keen chess player and enjoy playing music. I currently play the bass and guitar but have also started learning to play the flute. 
+Outside of work, I am a keen chess player and enjoy playing music. I currently play the bass and guitar but have also started learning the flute. 
 
