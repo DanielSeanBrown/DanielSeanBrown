@@ -9,7 +9,7 @@ I am working on this project as part of a group where we are looking at creating
 
 A project I have been really enjoying working on with real, positive impact behind its aims: bridging the gap between published scores from the ONS, who produce a report on deprivation scores roughly once every seven years.
 
-**Masters Thesis: Mapping Symbolic Music**
+**[Masters Thesis: Mapping Symbolic Music](https://github.com/DanielSeanBrown/music-representation-learning)**
 
 I have recently started work on my master’s thesis, where I will be using large MIDI datasets to map songs by similarity. This will then allow me to analyse the space they form and produce a tool for research, recommender systems or music history. My proposal for this project has only recently been accepted so I am still at the early stages of work, but I am excited to make use of various signal processing and time series analysis techniques as well as build a system for ingesting and storing future audio data.
 
