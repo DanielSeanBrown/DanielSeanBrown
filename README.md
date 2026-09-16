@@ -3,17 +3,17 @@ I am currently a part-time Data Science MSc student whilst employed within accou
 
 ## Currently Working On
 
+
+## Selected Projects
+
 [Nowcasting the Indices of Multiple Deprivation in Bristol](https://github.com/bristol-fused-indicators/imd_dataset_pipeline)
 
-I am working on this project as part of a group where we are looking at creating a model which can nowcast the IMD scores on the LSOAs of Bristol. We have just finished building and deploying our data pipeline and am now producing spatial econometric models for regression. 
-
-A project I have been really enjoying working on with real, positive impact behind its aims: bridging the gap between published scores from the ONS, who produce a report on deprivation scores roughly once every seven years.
+A group project where we looked at creating a model to nowcast the IMD scores on the LSOAs of Bristol. The aim was, to bridge a gap where the ONS publishes these scores once every seven years, our method would be reproducible with fresh data on a monthly basis. The project saw the production and deployment of a data pipeline as well as spatial econometric models for prediction. An interactive dashboard was also produced, available here: https://iod-dashboard.vercel.app/.
 
 **[Masters Thesis: Mapping Symbolic Music](https://github.com/DanielSeanBrown/music-representation-learning)**
 
-I have recently started work on my master’s thesis, where I will be using large MIDI datasets to map songs by similarity. This will then allow me to analyse the space they form and produce a tool for research, recommender systems or music history. My proposal for this project has only recently been accepted so I am still at the early stages of work, but I am excited to make use of various signal processing and time series analysis techniques as well as build a system for ingesting and storing future audio data.
+I have recently finished my master’s thesis, where I used large MIDI datasets to map songs by similarity. Currently public track similairty tools are relatively scarce with most available tools focusing on genre or artist. The project saw me produce a method for track comparison and indexing across ~30,000 files with a FastAPI backend and React frontend for exploration. The tool produced allowed the user to query tracks for their k-closest neighbours and displayed this information as an interactive graph. Shortest path finding and custom similarity metric options were also added.
 
-## Selected Projects
 
 [Biological Process State Prediction from Gene Expressions](https://github.com/DanielSeanBrown/biological-stage-prediction)
 
