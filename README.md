@@ -1,18 +1,21 @@
 ## Hello, I'm Daniel
-I am currently a part-time Data Science MSc student whilst employed within accounts payable at Heidelberg Materials. I also hold a BSc in Mathematics and Philosophy and CompTIA Data +, BCS Business Analysis Foundation certifications. I am keen to find work in the data industry once I graduate, making the most of my background produce useful insights from data. Always eager to learn more, I am more than happy to connect or talk with anyone interested in machine learning, data engineering or anything vaguely maths related. 
+I have recently completed my Data Science MSc and am currently employed within the accounts payable department at Heidelberg Materials. I also hold a BSc in Mathematics and Philosophy and CompTIA Data +, BCS Business Analysis Foundation certifications. I am keen to find work in the data industry now that I have graduated, making the most of my background to produce useful insights from data. Always eager to learn more, I am more than happy to connect or talk with anyone interested in machine learning, data engineering or anything vaguely maths related. 
 
 ## Currently Working On
 
+**[Insurance Claims Data Warehouse](https://github.com/DanielSeanBrown/insurance-claims-data-warehouse)**
+
+Eager to sharpen up my SQL and data warehousing skills, this is a project I have recently started focusing on producing an end-to-end insurance data warehouse solution. The project involves designing a star schema, building fact and dimension tables, developing ETL pipelines, and creating analytical reports from simulated insurance claims, policy, and customer data. My goal is to gain hands-on experience with modern data warehousing concepts, SQL optimisation, and cloud-based data platforms while showcasing the complete journey from raw data ingestion to business-ready insights.
 
 ## Selected Projects
-
-[Nowcasting the Indices of Multiple Deprivation in Bristol](https://github.com/bristol-fused-indicators/imd_dataset_pipeline)
-
-A group project where we looked at creating a model to nowcast the IMD scores on the LSOAs of Bristol. The aim was, to bridge a gap where the ONS publishes these scores once every seven years, our method would be reproducible with fresh data on a monthly basis. The project saw the production and deployment of a data pipeline as well as spatial econometric models for prediction. An interactive dashboard was also produced, available here: https://iod-dashboard.vercel.app/.
 
 **[Masters Thesis: Mapping Symbolic Music](https://github.com/DanielSeanBrown/music-representation-learning)**
 
 I have recently finished my master’s thesis, where I used large MIDI datasets to map songs by similarity. Currently public track similairty tools are relatively scarce with most available tools focusing on genre or artist. The project saw me produce a method for track comparison and indexing across ~30,000 files with a FastAPI backend and React frontend for exploration. The tool produced allowed the user to query tracks for their k-closest neighbours and displayed this information as an interactive graph. Shortest path finding and custom similarity metric options were also added.
+
+**[Nowcasting the Indices of Multiple Deprivation in Bristol](https://github.com/bristol-fused-indicators/imd_dataset_pipeline)**
+
+A group project where we looked at creating a model to nowcast the IMD scores on the LSOAs of Bristol. The aim was, to bridge a gap where the ONS publishes these scores once every seven years, our method would be reproducible with fresh data on a monthly basis. The project saw the production and deployment of a data pipeline as well as spatial econometric models for prediction. An interactive dashboard was also produced, available here: https://iod-dashboard.vercel.app/.
 
 
 [Biological Process State Prediction from Gene Expressions](https://github.com/DanielSeanBrown/biological-stage-prediction)
