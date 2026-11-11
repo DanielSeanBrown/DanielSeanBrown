@@ -1,5 +1,6 @@
 ## Hello, I'm Daniel
-I have recently completed my Data Science MSc and am currently employed within the accounts payable department at Heidelberg Materials. I also hold a BSc in Mathematics and Philosophy and CompTIA Data +, BCS Business Analysis Foundation certifications. I am keen to find work in the data industry now that I have graduated, making the most of my background to produce useful insights from data. Always eager to learn more, I am more than happy to connect or talk with anyone interested in machine learning, data engineering or anything vaguely maths related. 
+
+I am currently employed as a Data Analyst at PRG. I recently completed my Data Science MSc and hold a BSc in Mathematics and Philosophy and CompTIA Data +, BCS Business Analysis Foundation certifications. Always eager to learn more, I am more than happy to connect or talk with anyone interested in machine learning, data engineering or anything vaguely maths related. 
 
 ## Currently Working On
 
